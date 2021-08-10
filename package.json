@@ -1,0 +1,14 @@
+{
+  "name": "codex-archiver-module",
+  "version": "0.1.0",
+  "description": "Module for @jamesperet/codex-server for archiving files and folders\"",
+  "main": "archiver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Peret <james.peret@gmail.com> (http://jamesperet.com)",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.3.0"
+  }
+}
