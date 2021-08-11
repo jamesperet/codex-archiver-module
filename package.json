@@ -9,6 +9,10 @@
   "author": "James Peret <james.peret@gmail.com> (http://jamesperet.com)",
   "license": "ISC",
   "dependencies": {
-    "archiver": "^5.3.0"
+    "archiver": "^5.3.0",
+    "chalk": "^4.1.2",
+    "filesize": "^7.0.0",
+    "timer-node": "^5.0.5",
+    "uniqid": "^5.3.0"
   }
 }
