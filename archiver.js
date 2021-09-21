@@ -55,7 +55,7 @@ class Archiver {
 
     getFile(path, req) {
         var _this = this;
-        console.log(`> Looking for ${chalk.green(`\'${path}\'`)} in archived files`);
+        //console.log(`> Looking for ${chalk.green(`\'${path}\'`)} in archived files`);
         return new Promise((resolve, reject) => {
             for (let i = 0; i < _this.archived_files.length; i++) {
                 const file = _this.archived_files[i];

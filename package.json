@@ -1,6 +1,6 @@
 {
   "name": "@jamesperet/codex-archiver-module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Module for @jamesperet/codex-server for archiving files and folders\"",
   "main": "archiver.js",
   "scripts": {
